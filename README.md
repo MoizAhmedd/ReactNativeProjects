@@ -1,2 +1,4 @@
-# ReactNativeProjects
-Sample projects to learn react native
+# Projects
+<ol>
+  <li> Dice Roller App </li>
+</ol>
